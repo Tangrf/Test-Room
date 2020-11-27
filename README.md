@@ -1,2 +1,2 @@
 # Test-Room
-manuscript &amp; experiment
+manuscripts &amp; experiments
